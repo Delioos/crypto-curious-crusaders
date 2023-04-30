@@ -2,8 +2,6 @@
 import { getCollection } from "astro:content";
 import PageLayout from "@/layouts/Base";
 import PostPreview from "@/components/blog/PostPreview";
-import SocialListDelios from "@/components/SocialListDelios";
-import SocialListTricky from "@/components/SocialListTricky";
 import { sortMDByDate } from "@/utils";
 
 const MAX_POSTS = 10;
@@ -13,13 +11,13 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
 <PageLayout meta={{ title: "Home" }}>
 	<section>
-		<h1 class="title mb-6">Welcome aboard!</h1>
-		<p class="mb-4">
-			rediger landing page, pas du about mais faire un truc clair pour expliquer le bt du blog (transfert de connaissance share point, visibilité, s'entrainer à faire du web et rencontrer des gens)
+		<h1 class="title mb-6">Hi there!</h1>
+		<p class="mb-4 justify-content">
+      Welcome to the "crypto curious crusaders" head quarters. <br><br>
+      By building this blog, We hope to inspire people to learn, and to educate them on key concepts to gain liberty and sovereignty online.<br>
+      This site tends to a sort of a share point for online resources, and a place to share our thoughts and ideas. We will mainly focus on blockchain, privacy, security, economics and tech stuff.<br><br>
+      To learn more about us, check out the <a href="/about" class="cactus-link">about page</a>.
 		</p>
-		<SocialListDelios />
-		<br>
-		<SocialListTricky />
 	</section>
 	<section aria-label="Blog post list" class="mt-16">
 		<h2 class="title mb-4 text-xl">Posts</h2>
