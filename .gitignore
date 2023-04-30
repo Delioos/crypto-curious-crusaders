@@ -23,3 +23,10 @@ pnpm-debug.log*
 *.pem
 .cache
 .astro
+
+# webstorm
+.idea/
+*.iml
+*.iws
+*.ipr
+```
