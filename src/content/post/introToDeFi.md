@@ -1,5 +1,5 @@
 ---
-title: "Introdcution to decentralized finance"
+title: "Introduction to decentralized finance"
 publishDate: "6 May 2023"
 description: "A brief presentation of decentralized finance. What is it? Why is it important and how does it work?"
 tags: ["Blockchain", "DeFi", "Economics"]
