@@ -14,11 +14,11 @@ interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-	author: "Chris Williams",
+	author: "Delioos",
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-	title: "Astro Theme Cactus",
+	title: "CCC blog",
 	// Meta property used as a default description meta property
-	description: "An opinionated starter theme for Astro",
+	description: "Welcome to Crypto Curious Crusaders, a blog dedicated to educating and inspiring people to gain sovereignty and liberty online. Our focus is on blockchain, privacy, security, economics, and tech. Join TricKi and Delioos, two friends passionate about IT, cybersecurity, and decentralized finance, on their journey to share knowledge and ideas about the digital world. ",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
