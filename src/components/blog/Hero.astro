@@ -10,6 +10,7 @@ const { content } = Astro.props;
 
 const datetime = content.data.publishDate.toISOString();
 const postDate = getFormattedDate(content.data.publishDate, { month: "long" });
+const author = content.data.author;
 ---
 
 <h1 class="title mb-3 sm:mb-1">{content.data.title}</h1>

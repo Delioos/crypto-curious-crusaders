@@ -3,12 +3,16 @@ title: "Introduction to decentralized finance"
 publishDate: "6 May 2023"
 description: "A brief presentation of decentralized finance. What is it? Why is it important and how does it work?"
 tags: ["Blockchain", "DeFi", "Economics"]
-author: "Delios"
+author: "Delioos"
+ogImage: "https://cdn.midjourney.com/fc6e58b3-94f4-4e65-a365-ed763b0ead79/0_1.png"
 ---
-__@Delios__
+__@Delioos__
 # Introduction
 ## The concept of DeFi
 Decentralized finance (or DeFi) refers to a digital, autonomous, and unregulated financial ecosystem.
+<img
+src="https://cdn.midjourney.com/fc6e58b3-94f4-4e65-a365-ed763b0ead79/0_1.png"
+alt= "DeFi ecosystem">
 
 ## Why is it important?
 The foundation of DeFi is the elimination of intermediaries in transactions, embodied in the concept of P2P (peer to peer). The absence of authorities (such as banks or CEXs) to store, transfer, or trade your assets guarantees your sovereignty over them, epitomizing true decentralization.
@@ -20,6 +24,9 @@ In recent years, the DeFi market has experienced exponential growth, with over $
 Despite these hurdles, __DeFi has the potential to revolutionize the traditional financial system__ by offering a more accessible, transparent, and secure financial infrastructure for all.
 
 # Fundamentals of Blockchain
+<img
+src="https://cdn.midjourney.com/2d05bda6-7c2d-4692-b02e-bdde95a6218f/0_2.png"
+alt= "DeFi ecosystem">
 Blockchain is the foundational technology that enables DeFi.
 
 Essentially, blockchain is a decentralized ledger that records transactions on a distributed network of computers. Each block in the chain contains a set of transactions and is linked to the previous block through a cryptographic hash function, creating an immutable and transparent record of all transactions. This feature renders blockchain ideal for DeFi, as it facilitates the development of smart contracts and decentralized applications that can operate without a central authority.
@@ -30,3 +37,4 @@ Smart contracts are open-source, self-executing agreements with the terms betwee
 Individuals should prioritize the __liberty opportunity__ over potential financial gains.
 
 Indeed, DeFi is an "early" and highly volatile realm with countless opportunities to profit. However, this also implies numerous ways to lose your capital. By regaining control of their assets, individuals become the sole barrier against theft. So, if you are using DeFi or planning to join the ecosystem, you should be cognizant of security basics (which we will discuss in a separate post).
+
