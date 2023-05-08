@@ -4,6 +4,9 @@ import tailwind from "@astrojs/tailwind";
 import image from "@astrojs/image";
 import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 // https://astro.build/config
 export default defineConfig({
