@@ -15,6 +15,7 @@ If you'd like to take a closer look at the current version of Uniswap, I recomme
 # uni v4
 
 On June 13, 2023, Uniswap shared its vision for v4 . Here's a sneak preview of this major upcoming update, which will have a major impact on the current liquidity system.
+<img src="../../assets/uniswapLogo.png" alt="uniswap logo (unicorn) on a colorful background">
 ## **HOOKS : PERSONALIZED POOLS**
 
 The major news is the introduction of hooks, a new smart contract linked to liquidity pool, that will interact along its life cycle (before or after  a token exchange, for an example)
@@ -43,7 +44,7 @@ Once again emphasizing optimization, the unicorn offers "autocompounding" of the
 
 The hooks would also bring the possibility of integrating new oracles (support for transferring info between the blockchain and the outside world). This means that developers will be able to integrate their own logic for obtaining price data or other information, possibly from multiple sources or according to their own algorithms, offering greater flexibility and potential for innovation.
 
-![abstract image of geometrical shapes forming an eye](../../assets/oracles.png)
+<img alt="abstract image of geometrical shapes forming an eye" src="../../assets/oracles.png">
 
 # Architecture modification
 
