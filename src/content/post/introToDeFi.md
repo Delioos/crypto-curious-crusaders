@@ -1,4 +1,4 @@
----
+`---
 title: "Introduction to decentralized finance"
 publishDate: "6 May 2023"
 description: "A brief presentation of decentralized finance. What is it? Why is it important and how does it work?"
@@ -6,7 +6,7 @@ tags: ["Blockchain", "DeFi", "Economics"]
 author: "Delioos"
 ogImage: "https://cdn.midjourney.com/fc6e58b3-94f4-4e65-a365-ed763b0ead79/0_1.png"
 ---
-__@Delioos__
+__@Delioos__`
 # Introduction
 ## The concept of DeFi
 Decentralized finance (or DeFi) refers to a digital, autonomous, and unregulated financial ecosystem.
