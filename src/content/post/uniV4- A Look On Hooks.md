@@ -1,4 +1,4 @@
-`---
+---
 title: "Uni v4 : A new form of liquidity"
 publishDate: "25 june 2023"
 description: "A look on the promising announcement made by uniswap ! Uni v4 and hooks"
@@ -6,7 +6,7 @@ tags: ["DeFi", "Economics","Liquidity"]
 author: "Delioos"
 ogImage: "../../assets/uniswapLogo.png"
 ---
-__@Delioos__`
+__@Delioos__
 # Target audience
 Before I begin, I'd like to point out that this article is aimed at an audience with a relatively solid knowledge base of DeFi.
 
