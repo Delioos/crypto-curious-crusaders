@@ -1,7 +1,7 @@
 ---
-title: "Introduction to decentralized finance"
-publishDate: "6 May 2023"
-description: "A brief presentation of decentralized finance. What is it? Why is it important and how does it work?"
+title: "What are the blockchain use cases ?"
+publishDate: "21 July 2023"
+description: "How the Blockchain will bring fresh air on everyday topics ?"
 tags: ["Blockchain"]
 author: "Delioos"
 ---
