@@ -17,11 +17,9 @@ the potential to transform many sectors.
 
 # A free digital currency system
 
-When
-blockchain, Bitcoin is often the first name that comes to mind.
-comes to mind. This pioneering cryptocurrency was created with the aim of
-the tyranny of financial institutions and bank robberies.
-theft. Using the decentralization and security of the
+When we talk about blockchain, __Bitcoin__ is often the first name that comes to mind.
+This pioneering cryptocurrency was created with the aim of the tyranny of financial institutions and bank robberies.
+Using the decentralization and security of the
 blockchain, Bitcoin offers a free digital currency, enabling everyone to control
 everyone to control their financial assets outside traditional
 borders.
@@ -29,17 +27,18 @@ borders.
 A simple Internet connection is all it takes to become the sole master of your funds.
 
 Revolutionary
-in its "simplicity", Bitcoin's purity is unparalleled.
+in its "simplicity", Bitcoin's purity is unparalleled. But its simplicity
 nature runs counter to the development of complex applications.
 
 # The arrival of Solidity
 
 With
-the appearance of Ethereum and its programming language Solidity in late
+the appearance of **Ethereum** and its programming language **Solidity** in late
 July 2015, blockchain reached a new milestone. Smart
 contracts (contracts deployed on the ethereum blockchain) make it possible to
-develop complex decentralized applications capable of
-solve real-life problems. The ERCs (Ethereum Request for Comments)
+develop complex decentralized applications **capable of
+solving real-life problems**.
+The ERCs (Ethereum Request for Comments)
 introduced into the protocol have opened up new possibilities,
 offering a dynamic and scalable ecosystem for developers.
 
@@ -53,78 +52,64 @@ property and many other areas that we will explore here.
 
 # Virtualized art
 
-In
-the art world, NFTs have enabled artists to monetize their work in an
-their work in an unprecedented way. They can create and sell
-unique digital works of art in the form of NFTs, offering
+In the art world, NFTs have enabled artists to monetize their work in an unprecedented way. They can create and sell
+unique digital pieces of art in the form of NFTs, offering
 exclusive and verifiable ownership of these creations.
 This has also opened up opportunities for artists to earn
-royalties with each resale of the work on the secondary market. For
-take a look at trendy collections, opensea (the market leader) is a good
-market leader) is a good platform for taking an interest in different
-artists. If the pricing and speculation aspect (and maximum
-speculation (and maximum decentralization) is more your thing, competitor [blur](http://blur.io/) is a great platform.
+royalties with each resale of the work on the secondary market. To take
+a look at trendy collections, from various domains, you can use [opensea](https://opensea.io/) (the market leader).
+If speculation is the more attractive  aspect for you, check the competitor [blur](http://blur.io/). They have a great system for mass buying and lending (plus it's decentralized).
 
 # Object traceability in gaming
 
-The
-video games have long suffered from problems such as inventory hacks
+The video games have suffered for years from problems such as inventory hacks
 and dubious resale platforms. However, thanks to
 NFTs, these problems can be solved in innovative ways.
-Take [Treeverse](https://www.treeverse.net/),
+Take [Treeverse](https://www.treeverse.net/) as an example,
 a game inspired by classics such as Zelda, Dofus and Genshin
-Impact. It uses NFTs to manage faction real estate (plots)
-and player skins (the "Timeless Characters" collection). The
+Impact. It uses NFTs to manage faction real estate (the [treeverse plots](https://blur.io/collection/treeverse-plots))
+and player skins (the [Timeless Characters](https://blur.io/collection/timelessnfts) collection). The
 NFTrees are at the heart of the gameplay, allowing players to own unique and
 assets.
 
-A
-example is Noobizes, a platform that aspires to replace established
-established players like Faceit. Thanks to the use of game APIs
-games and anchoring game scores in the blockchain, Noobizes
-ensures fair and transparent competition. Tournament-winnable NFTs
-and tokens bring real cashflow to the players most determined
-determined to make a living from their passion.
+An other gaming-oriented promising project is [Noobizes](https://www.noobizes.com/), a platform that aspires to replace established
+gaming entities like Faceit. Thanks to __the use of game APIs__
+and anchoring party scores in the blockchain, "_Noobizes
+ensures fair and transparent competition_". Tournament-winnable NFTs
+and tokens could bring a real cashflow for the most determined players, **making it possible for them to live from their passion**.
 
 # Passes, membership cards to join DAOs
 
 The
-DAOs (Decentralized Autonomous Organizations) are decentralized
+**DAOs** (_Decentralized Autonomous Organizations_) are decentralized
 autonomous entities that operate on the blockchain. To
-access these communities, NFTs can be used as passes or membership cards, guaranteeing
-membership cards, guaranteeing membership of exclusive circles and
-transparent community governance.
+access these communities, NFTs can be used as **passes** guaranteeing **membership of exclusive circles** and
+**transparent community governance.**
 
 # Fair remuneration for musicians
 
-The
-blockchain offers solutions for complex problems, such as
-equitable remuneration for musical artists. Projects like [Bolero](http://www.boleromusic.com/)
-use blockchain to enable listeners to fund small artists
-artists directly, bypassing intermediaries and ensuring a more
-ensuring a fairer distribution of the income generated by music.
-music.
+The blockchain offers **solutions** for complex problems, such as
+**equitable remuneration for musical artists**. Projects like [Bolero](http://www.boleromusic.com/)
+use blockchain to enable listeners to fund small
+artists directly, _by bypassing intermediaries and ensuring
+a fairer distribution of the income generated by music._
 
 # Tracking funds for associations, governments
 
-The
-blockchain has the potential to revolutionize fund management for
-social-profit organizations, and even governments. For example,
+The **blockchain** _has the potential to revolutionize fund management_ for
+**social-profit organizations, and even governments**. For example,
 the recently publicized case of the Marianne fund, where money intended to
 radicalization was used in a dubious manner,
 could be avoided thanks to total traceability of funds on the
-blockchain. This technology would enable unprecedented
-transparency, reassuring citizens as to the use of the funds
+blockchain. This technology would **enable unprecedented
+transparency**, reassuring citizens as to the use of the funds
 collected.
 
 # Conclusion
 
-The
-blockchain is more than just a technological trend,
-it has the power to profoundly transform our society. From
-free digital currencies to revolutionary NFTs to complex decentralized
-complex decentralized applications, blockchain offers innovative
-for real-world problems. As the technology
-continues to advance, we can expect new use cases to emerge
-emerge, changing the way we interact with our digital world.
-interact with our digital world.
+The blockchain is more than just a technological trend,
+_it has the power to profoundly transform our society_. From
+free digital currencies to revolutionary NFTs to complex decentralized applications, _blockchain offers innovative solutions
+for real-world problems_. As the technology
+**continues to grow**, we can expect new use cases to emerge, _changing the way we interact with our digital world.
+interact with our digital world_.
