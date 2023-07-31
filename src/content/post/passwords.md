@@ -9,7 +9,7 @@ ogImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bi
 __@Tricki__
 
 
-Nous nous inscrivons sur de nouveaux sites chaque semaine et chacun de ces sites nous demande d’avoir un mot de passe long, avec des caractères spéciaux, des chiffres et des majuscules. Cela nous impose d’apprendre des mots de passe difficiles, d’autant plus qu’ils doivent être diffèrent sur chaque site. Avec toutes ces recommandations, certaines personnes notent leurs mots de passe sur leurs téléphones dans un mémo ou sur un carnet papier. Lorsque je parle de l’utilisation des mots de passe avec des utilisateurs non sensibilisés à la cybersécurité, ils me disent tous que la gestion de leurs mots de passe les énerve et que c’est une véritable plaie. Nous pouvons alors nous demander pourquoi toutes ces mesures de sécurité sont-elles si importantes.
+Nous nous inscrivons sur de nouveaux sites chaque semaine et chacun de ces sites nous demande d’avoir un mot de passe long, avec des caractères spéciaux, des chiffres et des majuscules. Cela nous impose d’apprendre des mots de passe difficiles, d’autant plus qu’ils doivent être différents sur chaque site. Avec toutes ces recommandations, certaines personnes notent leurs mots de passe sur leurs téléphones dans un mémo ou sur un carnet papier. Lorsque je parle de l’utilisation des mots de passe avec des utilisateurs non sensibilisés à la cybersécurité, ils me disent tous que la gestion de leurs mots de passe les énerve et que c’est une véritable plaie. Nous pouvons alors nous demander pourquoi toutes ces mesures de sécurité sont-elles si importantes.
 
 ## Comment fonctionnent les attaques ?
 
