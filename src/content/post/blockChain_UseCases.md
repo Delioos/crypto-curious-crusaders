@@ -26,9 +26,9 @@ borders.
 
 A simple Internet connection is all it takes to become the sole master of your funds.
 
-Revolutionary
+_Revolutionary
 in its "simplicity", Bitcoin's purity is unparalleled. But its simplicity
-nature runs counter to the development of complex applications.
+nature runs counter to the development of complex applications._
 
 # The arrival of Solidity
 
