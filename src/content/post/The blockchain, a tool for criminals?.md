@@ -1,13 +1,12 @@
 ---
 title: "The blockchain, a tool for criminals?"
-publishDate: "4 july 2023"
-description: "Are cryptocurrencies made to protect reprehensible people?"
-tags: ["Blockchain", "Story", "Philosophy"]
-author: "Delioos"
-ogImage: ""
+publishDate: "4 august 2023"
+description: "Was the blockchain created to protect the bad guys?"
+tags: ["Story", "Philosophy", "Blockchain"]
+author: "Delioos  "
+ogImage: "https://cdn.midjourney.com/fc6e58b3-94f4-4e65-a365-ed763b0ead79/0_1.png"
 ---
 __@Delioos__
-
 
 
 ## A new network
@@ -55,3 +54,4 @@ At a time when banks are banning "large" cash withdrawals, when a spending limit
 It is important to **be aware of the pressure** the banking institutions are putting on the masses **to strengthen their control** of global finances. Always **think critically** and avoid labelling one sector for its past, or trusting into another's without any questions. **_There's always a light and a dark side to every system, so it's up to you to choose your direction._**
 
 PS: I'm linking blockchain here to the popular use of it through Ethereum and its decentralised applications, but it's worth noting that other alternative currencies focusing on privacy and complete anonymity have emerged, such as monero.
+
