@@ -4,6 +4,7 @@ publishDate: "4 july 2023"
 description: "Are cryptocurrencies made to protect reprehensible people?"
 tags: ["Blockchain", "Story", "Philosophy"]
 author: "Delioos"
+ogImage: ""
 ---
 __@Delioos__
 
